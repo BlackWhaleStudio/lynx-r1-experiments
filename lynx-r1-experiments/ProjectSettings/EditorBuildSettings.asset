@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/LynxDemo.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+    path: Assets/Lynx/Samples/HandTracking/Scenes/Handtracking.unity
+    guid: 5d697469ec0b1094c84fba180e7583fb
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 96c3d7bf0d6a18a478b240da4ce09568,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9ac19de0ddd73e24a85a389608f47f43,
+      type: 2}
