@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eef1bd2c3eab0d4dad7729140660445, type: 3}
+  m_Name: LynxThemeColorSetTest
+  m_EditorClassIdentifier: 
+  themeName: 
+  Surface1: {r: 0, g: 0.46226418, b: 0.06086533, a: 1}
+  Surface2: {r: 0, g: 0.7924528, b: 0.09226475, a: 1}
+  Surface3: {r: 0, g: 1, b: 0.06818819, a: 1}
+  OnSurface: {r: 0.49056602, g: 0.42346027, b: 0.42346027, a: 1}
+  Primary1: {r: 1, g: 0.889333, b: 0, a: 1}
+  Primary2: {r: 1, g: 0.56307787, b: 0.08962262, a: 1}
+  Primary3: {r: 1, g: 0.3503102, b: 0, a: 1}
+  OnPrimary: {r: 1, g: 0, b: 0, a: 1}
+  Secondary1: {r: 0, g: 0, b: 0, a: 0}
+  Secondary2: {r: 0, g: 0, b: 0, a: 0}
+  Secondary3: {r: 0, g: 0, b: 0, a: 0}
+  OnSecondary: {r: 0, g: 0, b: 0, a: 0}
+  Accent1: {r: 0, g: 0, b: 0, a: 0}
+  Accent2: {r: 0, g: 0, b: 0, a: 0}
+  OnAccent: {r: 0, g: 0, b: 0, a: 0}
+  Disabled: {r: 0, g: 0, b: 0, a: 0}
+  OnDisabled: {r: 0, g: 0, b: 0, a: 0}
